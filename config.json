@@ -30,7 +30,7 @@
   },
   "antiInbox": false,
   "language": "en",
-  "nickNameBot": "𝐂𝐘𝐁𝐄𝐑 𝐆𝐎𝐀𝐓 𝐁𝐎𝐓 ᵁᴸᴸᴬˢᴴ",
+  "nickNameBot": "ZISHAN BOT",
   "prefix": "!",
   "usePrefix": {
     "enable": true,
@@ -45,12 +45,12 @@
   "adminOnly": {
     "enable": false,
     "ignoreCommand": [
-      "100082395531611",
+      "100052116795167",
       "100015168369582"
     ]
   },
   "adminBot": [
-    "100082395531611",
+    "100052116795167",
     "100015168369582"
   ],
   "whiteListMode": {
